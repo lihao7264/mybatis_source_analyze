@@ -1,0 +1,9 @@
+<configuration>
+
+    <mappers>
+        <!--1、单个Mapper接口-->
+        <!--        <mapper class="com.atlihao.mapper.IUserMapper"/>-->
+        <!--2、扫包方式-->
+        <package name="com.atlihao.mapper"/>
+    </mappers>
+</configuration>
